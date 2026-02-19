@@ -1,7 +1,7 @@
 # AI-Powered Teaching Assistant
 
 ## Overview
-This project implements an AI-powered teaching assistant that:
+This project demonstrates a hybrid AI architecture combining deterministic machine learning with lightweight LLM refinement for adaptive personalization:
 1. Understands student queries using NLP and ML models
 2. Recommends adaptive learning paths based on performance
 
@@ -19,9 +19,9 @@ The system integrates:
 
 User Query  
 → Sentence Embedding  
-→ Intent Classifier (ML)  
-→ LLM Refinement  
+→Intent Classifier (ML) 
 → Topic Classifier (ML)  
+→ LLM Refinement 
 → Difficulty Detection  
 → Performance-Based Recommendation Engine  
 → Explainable Output  
