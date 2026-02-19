@@ -58,7 +58,7 @@ venv\Scripts\activate
 
 2. Run main system:
 
-python src/main_system.py
+python src/main-system.py
 
 ---
 
