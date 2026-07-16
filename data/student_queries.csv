@@ -1,0 +1,1041 @@
+query,intent,topic
+What is variables?,Explanation,Python
+Explain variables.,Explanation,Python
+Can you explain variables?,Explanation,Python
+Give an example of variables.,Example,Python
+Show an example of variables.,Example,Python
+How is variables used? Give an example.,Example,Python
+I don't understand variables.,Doubt,Python
+variables is confusing.,Doubt,Python
+Please revise variables.,Revision,Python
+Help me revise variables.,Revision,Python
+What is data types?,Explanation,Python
+Explain data types.,Explanation,Python
+Can you explain data types?,Explanation,Python
+Give an example of data types.,Example,Python
+Show an example of data types.,Example,Python
+How is data types used? Give an example.,Example,Python
+I don't understand data types.,Doubt,Python
+data types is confusing.,Doubt,Python
+Please revise data types.,Revision,Python
+Help me revise data types.,Revision,Python
+What is lists?,Explanation,Python
+Explain lists.,Explanation,Python
+Can you explain lists?,Explanation,Python
+Give an example of lists.,Example,Python
+Show an example of lists.,Example,Python
+How is lists used? Give an example.,Example,Python
+I don't understand lists.,Doubt,Python
+lists is confusing.,Doubt,Python
+Please revise lists.,Revision,Python
+Help me revise lists.,Revision,Python
+What is tuples?,Explanation,Python
+Explain tuples.,Explanation,Python
+Can you explain tuples?,Explanation,Python
+Give an example of tuples.,Example,Python
+Show an example of tuples.,Example,Python
+How is tuples used? Give an example.,Example,Python
+I don't understand tuples.,Doubt,Python
+tuples is confusing.,Doubt,Python
+Please revise tuples.,Revision,Python
+Help me revise tuples.,Revision,Python
+What is dictionaries?,Explanation,Python
+Explain dictionaries.,Explanation,Python
+Can you explain dictionaries?,Explanation,Python
+Give an example of dictionaries.,Example,Python
+Show an example of dictionaries.,Example,Python
+How is dictionaries used? Give an example.,Example,Python
+I don't understand dictionaries.,Doubt,Python
+dictionaries is confusing.,Doubt,Python
+Please revise dictionaries.,Revision,Python
+Help me revise dictionaries.,Revision,Python
+What is sets?,Explanation,Python
+Explain sets.,Explanation,Python
+Can you explain sets?,Explanation,Python
+Give an example of sets.,Example,Python
+Show an example of sets.,Example,Python
+How is sets used? Give an example.,Example,Python
+I don't understand sets.,Doubt,Python
+sets is confusing.,Doubt,Python
+Please revise sets.,Revision,Python
+Help me revise sets.,Revision,Python
+What is loops?,Explanation,Python
+Explain loops.,Explanation,Python
+Can you explain loops?,Explanation,Python
+Give an example of loops.,Example,Python
+Show an example of loops.,Example,Python
+How is loops used? Give an example.,Example,Python
+I don't understand loops.,Doubt,Python
+loops is confusing.,Doubt,Python
+Please revise loops.,Revision,Python
+Help me revise loops.,Revision,Python
+What is functions?,Explanation,Python
+Explain functions.,Explanation,Python
+Can you explain functions?,Explanation,Python
+Give an example of functions.,Example,Python
+Show an example of functions.,Example,Python
+How is functions used? Give an example.,Example,Python
+I don't understand functions.,Doubt,Python
+functions is confusing.,Doubt,Python
+Please revise functions.,Revision,Python
+Help me revise functions.,Revision,Python
+What is classes?,Explanation,Python
+Explain classes.,Explanation,Python
+Can you explain classes?,Explanation,Python
+Give an example of classes.,Example,Python
+Show an example of classes.,Example,Python
+How is classes used? Give an example.,Example,Python
+I don't understand classes.,Doubt,Python
+classes is confusing.,Doubt,Python
+Please revise classes.,Revision,Python
+Help me revise classes.,Revision,Python
+What is exceptions?,Explanation,Python
+Explain exceptions.,Explanation,Python
+Can you explain exceptions?,Explanation,Python
+Give an example of exceptions.,Example,Python
+Show an example of exceptions.,Example,Python
+How is exceptions used? Give an example.,Example,Python
+I don't understand exceptions.,Doubt,Python
+exceptions is confusing.,Doubt,Python
+Please revise exceptions.,Revision,Python
+Help me revise exceptions.,Revision,Python
+What is file handling?,Explanation,Python
+Explain file handling.,Explanation,Python
+Can you explain file handling?,Explanation,Python
+Give an example of file handling.,Example,Python
+Show an example of file handling.,Example,Python
+How is file handling used? Give an example.,Example,Python
+I don't understand file handling.,Doubt,Python
+file handling is confusing.,Doubt,Python
+Please revise file handling.,Revision,Python
+Help me revise file handling.,Revision,Python
+What is modules?,Explanation,Python
+Explain modules.,Explanation,Python
+Can you explain modules?,Explanation,Python
+Give an example of modules.,Example,Python
+Show an example of modules.,Example,Python
+How is modules used? Give an example.,Example,Python
+I don't understand modules.,Doubt,Python
+modules is confusing.,Doubt,Python
+Please revise modules.,Revision,Python
+Help me revise modules.,Revision,Python
+What is packages?,Explanation,Python
+Explain packages.,Explanation,Python
+Can you explain packages?,Explanation,Python
+Give an example of packages.,Example,Python
+Show an example of packages.,Example,Python
+How is packages used? Give an example.,Example,Python
+I don't understand packages.,Doubt,Python
+packages is confusing.,Doubt,Python
+Please revise packages.,Revision,Python
+Help me revise packages.,Revision,Python
+What is arrays?,Explanation,DSA
+Explain arrays.,Explanation,DSA
+Can you explain arrays?,Explanation,DSA
+Give an example of arrays.,Example,DSA
+Show an example of arrays.,Example,DSA
+How is arrays used? Give an example.,Example,DSA
+I don't understand arrays.,Doubt,DSA
+arrays is confusing.,Doubt,DSA
+Please revise arrays.,Revision,DSA
+Help me revise arrays.,Revision,DSA
+What is linked lists?,Explanation,DSA
+Explain linked lists.,Explanation,DSA
+Can you explain linked lists?,Explanation,DSA
+Give an example of linked lists.,Example,DSA
+Show an example of linked lists.,Example,DSA
+How is linked lists used? Give an example.,Example,DSA
+I don't understand linked lists.,Doubt,DSA
+linked lists is confusing.,Doubt,DSA
+Please revise linked lists.,Revision,DSA
+Help me revise linked lists.,Revision,DSA
+What is stacks?,Explanation,DSA
+Explain stacks.,Explanation,DSA
+Can you explain stacks?,Explanation,DSA
+Give an example of stacks.,Example,DSA
+Show an example of stacks.,Example,DSA
+How is stacks used? Give an example.,Example,DSA
+I don't understand stacks.,Doubt,DSA
+stacks is confusing.,Doubt,DSA
+Please revise stacks.,Revision,DSA
+Help me revise stacks.,Revision,DSA
+What is queues?,Explanation,DSA
+Explain queues.,Explanation,DSA
+Can you explain queues?,Explanation,DSA
+Give an example of queues.,Example,DSA
+Show an example of queues.,Example,DSA
+How is queues used? Give an example.,Example,DSA
+I don't understand queues.,Doubt,DSA
+queues is confusing.,Doubt,DSA
+Please revise queues.,Revision,DSA
+Help me revise queues.,Revision,DSA
+What is trees?,Explanation,DSA
+Explain trees.,Explanation,DSA
+Can you explain trees?,Explanation,DSA
+Give an example of trees.,Example,DSA
+Show an example of trees.,Example,DSA
+How is trees used? Give an example.,Example,DSA
+I don't understand trees.,Doubt,DSA
+trees is confusing.,Doubt,DSA
+Please revise trees.,Revision,DSA
+Help me revise trees.,Revision,DSA
+What is binary trees?,Explanation,DSA
+Explain binary trees.,Explanation,DSA
+Can you explain binary trees?,Explanation,DSA
+Give an example of binary trees.,Example,DSA
+Show an example of binary trees.,Example,DSA
+How is binary trees used? Give an example.,Example,DSA
+I don't understand binary trees.,Doubt,DSA
+binary trees is confusing.,Doubt,DSA
+Please revise binary trees.,Revision,DSA
+Help me revise binary trees.,Revision,DSA
+What is BST?,Explanation,DSA
+Explain BST.,Explanation,DSA
+Can you explain BST?,Explanation,DSA
+Give an example of BST.,Example,DSA
+Show an example of BST.,Example,DSA
+How is BST used? Give an example.,Example,DSA
+I don't understand BST.,Doubt,DSA
+BST is confusing.,Doubt,DSA
+Please revise BST.,Revision,DSA
+Help me revise BST.,Revision,DSA
+What is graphs?,Explanation,DSA
+Explain graphs.,Explanation,DSA
+Can you explain graphs?,Explanation,DSA
+Give an example of graphs.,Example,DSA
+Show an example of graphs.,Example,DSA
+How is graphs used? Give an example.,Example,DSA
+I don't understand graphs.,Doubt,DSA
+graphs is confusing.,Doubt,DSA
+Please revise graphs.,Revision,DSA
+Help me revise graphs.,Revision,DSA
+What is hash tables?,Explanation,DSA
+Explain hash tables.,Explanation,DSA
+Can you explain hash tables?,Explanation,DSA
+Give an example of hash tables.,Example,DSA
+Show an example of hash tables.,Example,DSA
+How is hash tables used? Give an example.,Example,DSA
+I don't understand hash tables.,Doubt,DSA
+hash tables is confusing.,Doubt,DSA
+Please revise hash tables.,Revision,DSA
+Help me revise hash tables.,Revision,DSA
+What is sorting?,Explanation,DSA
+Explain sorting.,Explanation,DSA
+Can you explain sorting?,Explanation,DSA
+Give an example of sorting.,Example,DSA
+Show an example of sorting.,Example,DSA
+How is sorting used? Give an example.,Example,DSA
+I don't understand sorting.,Doubt,DSA
+sorting is confusing.,Doubt,DSA
+Please revise sorting.,Revision,DSA
+Help me revise sorting.,Revision,DSA
+What is searching?,Explanation,DSA
+Explain searching.,Explanation,DSA
+Can you explain searching?,Explanation,DSA
+Give an example of searching.,Example,DSA
+Show an example of searching.,Example,DSA
+How is searching used? Give an example.,Example,DSA
+I don't understand searching.,Doubt,DSA
+searching is confusing.,Doubt,DSA
+Please revise searching.,Revision,DSA
+Help me revise searching.,Revision,DSA
+What is recursion?,Explanation,DSA
+Explain recursion.,Explanation,DSA
+Can you explain recursion?,Explanation,DSA
+Give an example of recursion.,Example,DSA
+Show an example of recursion.,Example,DSA
+How is recursion used? Give an example.,Example,DSA
+I don't understand recursion.,Doubt,DSA
+recursion is confusing.,Doubt,DSA
+Please revise recursion.,Revision,DSA
+Help me revise recursion.,Revision,DSA
+What is dynamic programming?,Explanation,DSA
+Explain dynamic programming.,Explanation,DSA
+Can you explain dynamic programming?,Explanation,DSA
+Give an example of dynamic programming.,Example,DSA
+Show an example of dynamic programming.,Example,DSA
+How is dynamic programming used? Give an example.,Example,DSA
+I don't understand dynamic programming.,Doubt,DSA
+dynamic programming is confusing.,Doubt,DSA
+Please revise dynamic programming.,Revision,DSA
+Help me revise dynamic programming.,Revision,DSA
+What is normalization?,Explanation,DBMS
+Explain normalization.,Explanation,DBMS
+Can you explain normalization?,Explanation,DBMS
+Give an example of normalization.,Example,DBMS
+Show an example of normalization.,Example,DBMS
+How is normalization used? Give an example.,Example,DBMS
+I don't understand normalization.,Doubt,DBMS
+normalization is confusing.,Doubt,DBMS
+Please revise normalization.,Revision,DBMS
+Help me revise normalization.,Revision,DBMS
+What is SQL joins?,Explanation,DBMS
+Explain SQL joins.,Explanation,DBMS
+Can you explain SQL joins?,Explanation,DBMS
+Give an example of SQL joins.,Example,DBMS
+Show an example of SQL joins.,Example,DBMS
+How is SQL joins used? Give an example.,Example,DBMS
+I don't understand SQL joins.,Doubt,DBMS
+SQL joins is confusing.,Doubt,DBMS
+Please revise SQL joins.,Revision,DBMS
+Help me revise SQL joins.,Revision,DBMS
+What is transactions?,Explanation,DBMS
+Explain transactions.,Explanation,DBMS
+Can you explain transactions?,Explanation,DBMS
+Give an example of transactions.,Example,DBMS
+Show an example of transactions.,Example,DBMS
+How is transactions used? Give an example.,Example,DBMS
+I don't understand transactions.,Doubt,DBMS
+transactions is confusing.,Doubt,DBMS
+Please revise transactions.,Revision,DBMS
+Help me revise transactions.,Revision,DBMS
+What is indexes?,Explanation,DBMS
+Explain indexes.,Explanation,DBMS
+Can you explain indexes?,Explanation,DBMS
+Give an example of indexes.,Example,DBMS
+Show an example of indexes.,Example,DBMS
+How is indexes used? Give an example.,Example,DBMS
+I don't understand indexes.,Doubt,DBMS
+indexes is confusing.,Doubt,DBMS
+Please revise indexes.,Revision,DBMS
+Help me revise indexes.,Revision,DBMS
+What is primary keys?,Explanation,DBMS
+Explain primary keys.,Explanation,DBMS
+Can you explain primary keys?,Explanation,DBMS
+Give an example of primary keys.,Example,DBMS
+Show an example of primary keys.,Example,DBMS
+How is primary keys used? Give an example.,Example,DBMS
+I don't understand primary keys.,Doubt,DBMS
+primary keys is confusing.,Doubt,DBMS
+Please revise primary keys.,Revision,DBMS
+Help me revise primary keys.,Revision,DBMS
+What is foreign keys?,Explanation,DBMS
+Explain foreign keys.,Explanation,DBMS
+Can you explain foreign keys?,Explanation,DBMS
+Give an example of foreign keys.,Example,DBMS
+Show an example of foreign keys.,Example,DBMS
+How is foreign keys used? Give an example.,Example,DBMS
+I don't understand foreign keys.,Doubt,DBMS
+foreign keys is confusing.,Doubt,DBMS
+Please revise foreign keys.,Revision,DBMS
+Help me revise foreign keys.,Revision,DBMS
+What is ER diagrams?,Explanation,DBMS
+Explain ER diagrams.,Explanation,DBMS
+Can you explain ER diagrams?,Explanation,DBMS
+Give an example of ER diagrams.,Example,DBMS
+Show an example of ER diagrams.,Example,DBMS
+How is ER diagrams used? Give an example.,Example,DBMS
+I don't understand ER diagrams.,Doubt,DBMS
+ER diagrams is confusing.,Doubt,DBMS
+Please revise ER diagrams.,Revision,DBMS
+Help me revise ER diagrams.,Revision,DBMS
+What is views?,Explanation,DBMS
+Explain views.,Explanation,DBMS
+Can you explain views?,Explanation,DBMS
+Give an example of views.,Example,DBMS
+Show an example of views.,Example,DBMS
+How is views used? Give an example.,Example,DBMS
+I don't understand views.,Doubt,DBMS
+views is confusing.,Doubt,DBMS
+Please revise views.,Revision,DBMS
+Help me revise views.,Revision,DBMS
+What is stored procedures?,Explanation,DBMS
+Explain stored procedures.,Explanation,DBMS
+Can you explain stored procedures?,Explanation,DBMS
+Give an example of stored procedures.,Example,DBMS
+Show an example of stored procedures.,Example,DBMS
+How is stored procedures used? Give an example.,Example,DBMS
+I don't understand stored procedures.,Doubt,DBMS
+stored procedures is confusing.,Doubt,DBMS
+Please revise stored procedures.,Revision,DBMS
+Help me revise stored procedures.,Revision,DBMS
+What is triggers?,Explanation,DBMS
+Explain triggers.,Explanation,DBMS
+Can you explain triggers?,Explanation,DBMS
+Give an example of triggers.,Example,DBMS
+Show an example of triggers.,Example,DBMS
+How is triggers used? Give an example.,Example,DBMS
+I don't understand triggers.,Doubt,DBMS
+triggers is confusing.,Doubt,DBMS
+Please revise triggers.,Revision,DBMS
+Help me revise triggers.,Revision,DBMS
+What is ACID properties?,Explanation,DBMS
+Explain ACID properties.,Explanation,DBMS
+Can you explain ACID properties?,Explanation,DBMS
+Give an example of ACID properties.,Example,DBMS
+Show an example of ACID properties.,Example,DBMS
+How is ACID properties used? Give an example.,Example,DBMS
+I don't understand ACID properties.,Doubt,DBMS
+ACID properties is confusing.,Doubt,DBMS
+Please revise ACID properties.,Revision,DBMS
+Help me revise ACID properties.,Revision,DBMS
+What is constraints?,Explanation,DBMS
+Explain constraints.,Explanation,DBMS
+Can you explain constraints?,Explanation,DBMS
+Give an example of constraints.,Example,DBMS
+Show an example of constraints.,Example,DBMS
+How is constraints used? Give an example.,Example,DBMS
+I don't understand constraints.,Doubt,DBMS
+constraints is confusing.,Doubt,DBMS
+Please revise constraints.,Revision,DBMS
+Help me revise constraints.,Revision,DBMS
+What is schemas?,Explanation,DBMS
+Explain schemas.,Explanation,DBMS
+Can you explain schemas?,Explanation,DBMS
+Give an example of schemas.,Example,DBMS
+Show an example of schemas.,Example,DBMS
+How is schemas used? Give an example.,Example,DBMS
+I don't understand schemas.,Doubt,DBMS
+schemas is confusing.,Doubt,DBMS
+Please revise schemas.,Revision,DBMS
+Help me revise schemas.,Revision,DBMS
+What is classes?,Explanation,OOP
+Explain classes.,Explanation,OOP
+Can you explain classes?,Explanation,OOP
+Give an example of classes.,Example,OOP
+Show an example of classes.,Example,OOP
+How is classes used? Give an example.,Example,OOP
+I don't understand classes.,Doubt,OOP
+classes is confusing.,Doubt,OOP
+Please revise classes.,Revision,OOP
+Help me revise classes.,Revision,OOP
+What is objects?,Explanation,OOP
+Explain objects.,Explanation,OOP
+Can you explain objects?,Explanation,OOP
+Give an example of objects.,Example,OOP
+Show an example of objects.,Example,OOP
+How is objects used? Give an example.,Example,OOP
+I don't understand objects.,Doubt,OOP
+objects is confusing.,Doubt,OOP
+Please revise objects.,Revision,OOP
+Help me revise objects.,Revision,OOP
+What is inheritance?,Explanation,OOP
+Explain inheritance.,Explanation,OOP
+Can you explain inheritance?,Explanation,OOP
+Give an example of inheritance.,Example,OOP
+Show an example of inheritance.,Example,OOP
+How is inheritance used? Give an example.,Example,OOP
+I don't understand inheritance.,Doubt,OOP
+inheritance is confusing.,Doubt,OOP
+Please revise inheritance.,Revision,OOP
+Help me revise inheritance.,Revision,OOP
+What is polymorphism?,Explanation,OOP
+Explain polymorphism.,Explanation,OOP
+Can you explain polymorphism?,Explanation,OOP
+Give an example of polymorphism.,Example,OOP
+Show an example of polymorphism.,Example,OOP
+How is polymorphism used? Give an example.,Example,OOP
+I don't understand polymorphism.,Doubt,OOP
+polymorphism is confusing.,Doubt,OOP
+Please revise polymorphism.,Revision,OOP
+Help me revise polymorphism.,Revision,OOP
+What is encapsulation?,Explanation,OOP
+Explain encapsulation.,Explanation,OOP
+Can you explain encapsulation?,Explanation,OOP
+Give an example of encapsulation.,Example,OOP
+Show an example of encapsulation.,Example,OOP
+How is encapsulation used? Give an example.,Example,OOP
+I don't understand encapsulation.,Doubt,OOP
+encapsulation is confusing.,Doubt,OOP
+Please revise encapsulation.,Revision,OOP
+Help me revise encapsulation.,Revision,OOP
+What is abstraction?,Explanation,OOP
+Explain abstraction.,Explanation,OOP
+Can you explain abstraction?,Explanation,OOP
+Give an example of abstraction.,Example,OOP
+Show an example of abstraction.,Example,OOP
+How is abstraction used? Give an example.,Example,OOP
+I don't understand abstraction.,Doubt,OOP
+abstraction is confusing.,Doubt,OOP
+Please revise abstraction.,Revision,OOP
+Help me revise abstraction.,Revision,OOP
+What is constructors?,Explanation,OOP
+Explain constructors.,Explanation,OOP
+Can you explain constructors?,Explanation,OOP
+Give an example of constructors.,Example,OOP
+Show an example of constructors.,Example,OOP
+How is constructors used? Give an example.,Example,OOP
+I don't understand constructors.,Doubt,OOP
+constructors is confusing.,Doubt,OOP
+Please revise constructors.,Revision,OOP
+Help me revise constructors.,Revision,OOP
+What is interfaces?,Explanation,OOP
+Explain interfaces.,Explanation,OOP
+Can you explain interfaces?,Explanation,OOP
+Give an example of interfaces.,Example,OOP
+Show an example of interfaces.,Example,OOP
+How is interfaces used? Give an example.,Example,OOP
+I don't understand interfaces.,Doubt,OOP
+interfaces is confusing.,Doubt,OOP
+Please revise interfaces.,Revision,OOP
+Help me revise interfaces.,Revision,OOP
+What is method overloading?,Explanation,OOP
+Explain method overloading.,Explanation,OOP
+Can you explain method overloading?,Explanation,OOP
+Give an example of method overloading.,Example,OOP
+Show an example of method overloading.,Example,OOP
+How is method overloading used? Give an example.,Example,OOP
+I don't understand method overloading.,Doubt,OOP
+method overloading is confusing.,Doubt,OOP
+Please revise method overloading.,Revision,OOP
+Help me revise method overloading.,Revision,OOP
+What is method overriding?,Explanation,OOP
+Explain method overriding.,Explanation,OOP
+Can you explain method overriding?,Explanation,OOP
+Give an example of method overriding.,Example,OOP
+Show an example of method overriding.,Example,OOP
+How is method overriding used? Give an example.,Example,OOP
+I don't understand method overriding.,Doubt,OOP
+method overriding is confusing.,Doubt,OOP
+Please revise method overriding.,Revision,OOP
+Help me revise method overriding.,Revision,OOP
+What is composition?,Explanation,OOP
+Explain composition.,Explanation,OOP
+Can you explain composition?,Explanation,OOP
+Give an example of composition.,Example,OOP
+Show an example of composition.,Example,OOP
+How is composition used? Give an example.,Example,OOP
+I don't understand composition.,Doubt,OOP
+composition is confusing.,Doubt,OOP
+Please revise composition.,Revision,OOP
+Help me revise composition.,Revision,OOP
+What is aggregation?,Explanation,OOP
+Explain aggregation.,Explanation,OOP
+Can you explain aggregation?,Explanation,OOP
+Give an example of aggregation.,Example,OOP
+Show an example of aggregation.,Example,OOP
+How is aggregation used? Give an example.,Example,OOP
+I don't understand aggregation.,Doubt,OOP
+aggregation is confusing.,Doubt,OOP
+Please revise aggregation.,Revision,OOP
+Help me revise aggregation.,Revision,OOP
+What is access modifiers?,Explanation,OOP
+Explain access modifiers.,Explanation,OOP
+Can you explain access modifiers?,Explanation,OOP
+Give an example of access modifiers.,Example,OOP
+Show an example of access modifiers.,Example,OOP
+How is access modifiers used? Give an example.,Example,OOP
+I don't understand access modifiers.,Doubt,OOP
+access modifiers is confusing.,Doubt,OOP
+Please revise access modifiers.,Revision,OOP
+Help me revise access modifiers.,Revision,OOP
+What is processes?,Explanation,OS
+Explain processes.,Explanation,OS
+Can you explain processes?,Explanation,OS
+Give an example of processes.,Example,OS
+Show an example of processes.,Example,OS
+How is processes used? Give an example.,Example,OS
+I don't understand processes.,Doubt,OS
+processes is confusing.,Doubt,OS
+Please revise processes.,Revision,OS
+Help me revise processes.,Revision,OS
+What is threads?,Explanation,OS
+Explain threads.,Explanation,OS
+Can you explain threads?,Explanation,OS
+Give an example of threads.,Example,OS
+Show an example of threads.,Example,OS
+How is threads used? Give an example.,Example,OS
+I don't understand threads.,Doubt,OS
+threads is confusing.,Doubt,OS
+Please revise threads.,Revision,OS
+Help me revise threads.,Revision,OS
+What is deadlocks?,Explanation,OS
+Explain deadlocks.,Explanation,OS
+Can you explain deadlocks?,Explanation,OS
+Give an example of deadlocks.,Example,OS
+Show an example of deadlocks.,Example,OS
+How is deadlocks used? Give an example.,Example,OS
+I don't understand deadlocks.,Doubt,OS
+deadlocks is confusing.,Doubt,OS
+Please revise deadlocks.,Revision,OS
+Help me revise deadlocks.,Revision,OS
+What is scheduling?,Explanation,OS
+Explain scheduling.,Explanation,OS
+Can you explain scheduling?,Explanation,OS
+Give an example of scheduling.,Example,OS
+Show an example of scheduling.,Example,OS
+How is scheduling used? Give an example.,Example,OS
+I don't understand scheduling.,Doubt,OS
+scheduling is confusing.,Doubt,OS
+Please revise scheduling.,Revision,OS
+Help me revise scheduling.,Revision,OS
+What is memory management?,Explanation,OS
+Explain memory management.,Explanation,OS
+Can you explain memory management?,Explanation,OS
+Give an example of memory management.,Example,OS
+Show an example of memory management.,Example,OS
+How is memory management used? Give an example.,Example,OS
+I don't understand memory management.,Doubt,OS
+memory management is confusing.,Doubt,OS
+Please revise memory management.,Revision,OS
+Help me revise memory management.,Revision,OS
+What is paging?,Explanation,OS
+Explain paging.,Explanation,OS
+Can you explain paging?,Explanation,OS
+Give an example of paging.,Example,OS
+Show an example of paging.,Example,OS
+How is paging used? Give an example.,Example,OS
+I don't understand paging.,Doubt,OS
+paging is confusing.,Doubt,OS
+Please revise paging.,Revision,OS
+Help me revise paging.,Revision,OS
+What is segmentation?,Explanation,OS
+Explain segmentation.,Explanation,OS
+Can you explain segmentation?,Explanation,OS
+Give an example of segmentation.,Example,OS
+Show an example of segmentation.,Example,OS
+How is segmentation used? Give an example.,Example,OS
+I don't understand segmentation.,Doubt,OS
+segmentation is confusing.,Doubt,OS
+Please revise segmentation.,Revision,OS
+Help me revise segmentation.,Revision,OS
+What is virtual memory?,Explanation,OS
+Explain virtual memory.,Explanation,OS
+Can you explain virtual memory?,Explanation,OS
+Give an example of virtual memory.,Example,OS
+Show an example of virtual memory.,Example,OS
+How is virtual memory used? Give an example.,Example,OS
+I don't understand virtual memory.,Doubt,OS
+virtual memory is confusing.,Doubt,OS
+Please revise virtual memory.,Revision,OS
+Help me revise virtual memory.,Revision,OS
+What is CPU scheduling?,Explanation,OS
+Explain CPU scheduling.,Explanation,OS
+Can you explain CPU scheduling?,Explanation,OS
+Give an example of CPU scheduling.,Example,OS
+Show an example of CPU scheduling.,Example,OS
+How is CPU scheduling used? Give an example.,Example,OS
+I don't understand CPU scheduling.,Doubt,OS
+CPU scheduling is confusing.,Doubt,OS
+Please revise CPU scheduling.,Revision,OS
+Help me revise CPU scheduling.,Revision,OS
+What is semaphores?,Explanation,OS
+Explain semaphores.,Explanation,OS
+Can you explain semaphores?,Explanation,OS
+Give an example of semaphores.,Example,OS
+Show an example of semaphores.,Example,OS
+How is semaphores used? Give an example.,Example,OS
+I don't understand semaphores.,Doubt,OS
+semaphores is confusing.,Doubt,OS
+Please revise semaphores.,Revision,OS
+Help me revise semaphores.,Revision,OS
+What is mutex?,Explanation,OS
+Explain mutex.,Explanation,OS
+Can you explain mutex?,Explanation,OS
+Give an example of mutex.,Example,OS
+Show an example of mutex.,Example,OS
+How is mutex used? Give an example.,Example,OS
+I don't understand mutex.,Doubt,OS
+mutex is confusing.,Doubt,OS
+Please revise mutex.,Revision,OS
+Help me revise mutex.,Revision,OS
+What is file systems?,Explanation,OS
+Explain file systems.,Explanation,OS
+Can you explain file systems?,Explanation,OS
+Give an example of file systems.,Example,OS
+Show an example of file systems.,Example,OS
+How is file systems used? Give an example.,Example,OS
+I don't understand file systems.,Doubt,OS
+file systems is confusing.,Doubt,OS
+Please revise file systems.,Revision,OS
+Help me revise file systems.,Revision,OS
+What is system calls?,Explanation,OS
+Explain system calls.,Explanation,OS
+Can you explain system calls?,Explanation,OS
+Give an example of system calls.,Example,OS
+Show an example of system calls.,Example,OS
+How is system calls used? Give an example.,Example,OS
+I don't understand system calls.,Doubt,OS
+system calls is confusing.,Doubt,OS
+Please revise system calls.,Revision,OS
+Help me revise system calls.,Revision,OS
+What is OSI model?,Explanation,CN
+Explain OSI model.,Explanation,CN
+Can you explain OSI model?,Explanation,CN
+Give an example of OSI model.,Example,CN
+Show an example of OSI model.,Example,CN
+How is OSI model used? Give an example.,Example,CN
+I don't understand OSI model.,Doubt,CN
+OSI model is confusing.,Doubt,CN
+Please revise OSI model.,Revision,CN
+Help me revise OSI model.,Revision,CN
+What is TCP?,Explanation,CN
+Explain TCP.,Explanation,CN
+Can you explain TCP?,Explanation,CN
+Give an example of TCP.,Example,CN
+Show an example of TCP.,Example,CN
+How is TCP used? Give an example.,Example,CN
+I don't understand TCP.,Doubt,CN
+TCP is confusing.,Doubt,CN
+Please revise TCP.,Revision,CN
+Help me revise TCP.,Revision,CN
+What is UDP?,Explanation,CN
+Explain UDP.,Explanation,CN
+Can you explain UDP?,Explanation,CN
+Give an example of UDP.,Example,CN
+Show an example of UDP.,Example,CN
+How is UDP used? Give an example.,Example,CN
+I don't understand UDP.,Doubt,CN
+UDP is confusing.,Doubt,CN
+Please revise UDP.,Revision,CN
+Help me revise UDP.,Revision,CN
+What is IP addressing?,Explanation,CN
+Explain IP addressing.,Explanation,CN
+Can you explain IP addressing?,Explanation,CN
+Give an example of IP addressing.,Example,CN
+Show an example of IP addressing.,Example,CN
+How is IP addressing used? Give an example.,Example,CN
+I don't understand IP addressing.,Doubt,CN
+IP addressing is confusing.,Doubt,CN
+Please revise IP addressing.,Revision,CN
+Help me revise IP addressing.,Revision,CN
+What is routing?,Explanation,CN
+Explain routing.,Explanation,CN
+Can you explain routing?,Explanation,CN
+Give an example of routing.,Example,CN
+Show an example of routing.,Example,CN
+How is routing used? Give an example.,Example,CN
+I don't understand routing.,Doubt,CN
+routing is confusing.,Doubt,CN
+Please revise routing.,Revision,CN
+Help me revise routing.,Revision,CN
+What is switching?,Explanation,CN
+Explain switching.,Explanation,CN
+Can you explain switching?,Explanation,CN
+Give an example of switching.,Example,CN
+Show an example of switching.,Example,CN
+How is switching used? Give an example.,Example,CN
+I don't understand switching.,Doubt,CN
+switching is confusing.,Doubt,CN
+Please revise switching.,Revision,CN
+Help me revise switching.,Revision,CN
+What is DNS?,Explanation,CN
+Explain DNS.,Explanation,CN
+Can you explain DNS?,Explanation,CN
+Give an example of DNS.,Example,CN
+Show an example of DNS.,Example,CN
+How is DNS used? Give an example.,Example,CN
+I don't understand DNS.,Doubt,CN
+DNS is confusing.,Doubt,CN
+Please revise DNS.,Revision,CN
+Help me revise DNS.,Revision,CN
+What is HTTP?,Explanation,CN
+Explain HTTP.,Explanation,CN
+Can you explain HTTP?,Explanation,CN
+Give an example of HTTP.,Example,CN
+Show an example of HTTP.,Example,CN
+How is HTTP used? Give an example.,Example,CN
+I don't understand HTTP.,Doubt,CN
+HTTP is confusing.,Doubt,CN
+Please revise HTTP.,Revision,CN
+Help me revise HTTP.,Revision,CN
+What is HTTPS?,Explanation,CN
+Explain HTTPS.,Explanation,CN
+Can you explain HTTPS?,Explanation,CN
+Give an example of HTTPS.,Example,CN
+Show an example of HTTPS.,Example,CN
+How is HTTPS used? Give an example.,Example,CN
+I don't understand HTTPS.,Doubt,CN
+HTTPS is confusing.,Doubt,CN
+Please revise HTTPS.,Revision,CN
+Help me revise HTTPS.,Revision,CN
+What is SMTP?,Explanation,CN
+Explain SMTP.,Explanation,CN
+Can you explain SMTP?,Explanation,CN
+Give an example of SMTP.,Example,CN
+Show an example of SMTP.,Example,CN
+How is SMTP used? Give an example.,Example,CN
+I don't understand SMTP.,Doubt,CN
+SMTP is confusing.,Doubt,CN
+Please revise SMTP.,Revision,CN
+Help me revise SMTP.,Revision,CN
+What is subnetting?,Explanation,CN
+Explain subnetting.,Explanation,CN
+Can you explain subnetting?,Explanation,CN
+Give an example of subnetting.,Example,CN
+Show an example of subnetting.,Example,CN
+How is subnetting used? Give an example.,Example,CN
+I don't understand subnetting.,Doubt,CN
+subnetting is confusing.,Doubt,CN
+Please revise subnetting.,Revision,CN
+Help me revise subnetting.,Revision,CN
+What is firewalls?,Explanation,CN
+Explain firewalls.,Explanation,CN
+Can you explain firewalls?,Explanation,CN
+Give an example of firewalls.,Example,CN
+Show an example of firewalls.,Example,CN
+How is firewalls used? Give an example.,Example,CN
+I don't understand firewalls.,Doubt,CN
+firewalls is confusing.,Doubt,CN
+Please revise firewalls.,Revision,CN
+Help me revise firewalls.,Revision,CN
+What is network layers?,Explanation,CN
+Explain network layers.,Explanation,CN
+Can you explain network layers?,Explanation,CN
+Give an example of network layers.,Example,CN
+Show an example of network layers.,Example,CN
+How is network layers used? Give an example.,Example,CN
+I don't understand network layers.,Doubt,CN
+network layers is confusing.,Doubt,CN
+Please revise network layers.,Revision,CN
+Help me revise network layers.,Revision,CN
+What is machine learning?,Explanation,AI
+Explain machine learning.,Explanation,AI
+Can you explain machine learning?,Explanation,AI
+Give an example of machine learning.,Example,AI
+Show an example of machine learning.,Example,AI
+How is machine learning used? Give an example.,Example,AI
+I don't understand machine learning.,Doubt,AI
+machine learning is confusing.,Doubt,AI
+Please revise machine learning.,Revision,AI
+Help me revise machine learning.,Revision,AI
+What is deep learning?,Explanation,AI
+Explain deep learning.,Explanation,AI
+Can you explain deep learning?,Explanation,AI
+Give an example of deep learning.,Example,AI
+Show an example of deep learning.,Example,AI
+How is deep learning used? Give an example.,Example,AI
+I don't understand deep learning.,Doubt,AI
+deep learning is confusing.,Doubt,AI
+Please revise deep learning.,Revision,AI
+Help me revise deep learning.,Revision,AI
+What is neural networks?,Explanation,AI
+Explain neural networks.,Explanation,AI
+Can you explain neural networks?,Explanation,AI
+Give an example of neural networks.,Example,AI
+Show an example of neural networks.,Example,AI
+How is neural networks used? Give an example.,Example,AI
+I don't understand neural networks.,Doubt,AI
+neural networks is confusing.,Doubt,AI
+Please revise neural networks.,Revision,AI
+Help me revise neural networks.,Revision,AI
+What is supervised learning?,Explanation,AI
+Explain supervised learning.,Explanation,AI
+Can you explain supervised learning?,Explanation,AI
+Give an example of supervised learning.,Example,AI
+Show an example of supervised learning.,Example,AI
+How is supervised learning used? Give an example.,Example,AI
+I don't understand supervised learning.,Doubt,AI
+supervised learning is confusing.,Doubt,AI
+Please revise supervised learning.,Revision,AI
+Help me revise supervised learning.,Revision,AI
+What is unsupervised learning?,Explanation,AI
+Explain unsupervised learning.,Explanation,AI
+Can you explain unsupervised learning?,Explanation,AI
+Give an example of unsupervised learning.,Example,AI
+Show an example of unsupervised learning.,Example,AI
+How is unsupervised learning used? Give an example.,Example,AI
+I don't understand unsupervised learning.,Doubt,AI
+unsupervised learning is confusing.,Doubt,AI
+Please revise unsupervised learning.,Revision,AI
+Help me revise unsupervised learning.,Revision,AI
+What is NLP?,Explanation,AI
+Explain NLP.,Explanation,AI
+Can you explain NLP?,Explanation,AI
+Give an example of NLP.,Example,AI
+Show an example of NLP.,Example,AI
+How is NLP used? Give an example.,Example,AI
+I don't understand NLP.,Doubt,AI
+NLP is confusing.,Doubt,AI
+Please revise NLP.,Revision,AI
+Help me revise NLP.,Revision,AI
+What is computer vision?,Explanation,AI
+Explain computer vision.,Explanation,AI
+Can you explain computer vision?,Explanation,AI
+Give an example of computer vision.,Example,AI
+Show an example of computer vision.,Example,AI
+How is computer vision used? Give an example.,Example,AI
+I don't understand computer vision.,Doubt,AI
+computer vision is confusing.,Doubt,AI
+Please revise computer vision.,Revision,AI
+Help me revise computer vision.,Revision,AI
+What is overfitting?,Explanation,AI
+Explain overfitting.,Explanation,AI
+Can you explain overfitting?,Explanation,AI
+Give an example of overfitting.,Example,AI
+Show an example of overfitting.,Example,AI
+How is overfitting used? Give an example.,Example,AI
+I don't understand overfitting.,Doubt,AI
+overfitting is confusing.,Doubt,AI
+Please revise overfitting.,Revision,AI
+Help me revise overfitting.,Revision,AI
+What is underfitting?,Explanation,AI
+Explain underfitting.,Explanation,AI
+Can you explain underfitting?,Explanation,AI
+Give an example of underfitting.,Example,AI
+Show an example of underfitting.,Example,AI
+How is underfitting used? Give an example.,Example,AI
+I don't understand underfitting.,Doubt,AI
+underfitting is confusing.,Doubt,AI
+Please revise underfitting.,Revision,AI
+Help me revise underfitting.,Revision,AI
+What is feature engineering?,Explanation,AI
+Explain feature engineering.,Explanation,AI
+Can you explain feature engineering?,Explanation,AI
+Give an example of feature engineering.,Example,AI
+Show an example of feature engineering.,Example,AI
+How is feature engineering used? Give an example.,Example,AI
+I don't understand feature engineering.,Doubt,AI
+feature engineering is confusing.,Doubt,AI
+Please revise feature engineering.,Revision,AI
+Help me revise feature engineering.,Revision,AI
+What is classification?,Explanation,AI
+Explain classification.,Explanation,AI
+Can you explain classification?,Explanation,AI
+Give an example of classification.,Example,AI
+Show an example of classification.,Example,AI
+How is classification used? Give an example.,Example,AI
+I don't understand classification.,Doubt,AI
+classification is confusing.,Doubt,AI
+Please revise classification.,Revision,AI
+Help me revise classification.,Revision,AI
+What is regression?,Explanation,AI
+Explain regression.,Explanation,AI
+Can you explain regression?,Explanation,AI
+Give an example of regression.,Example,AI
+Show an example of regression.,Example,AI
+How is regression used? Give an example.,Example,AI
+I don't understand regression.,Doubt,AI
+regression is confusing.,Doubt,AI
+Please revise regression.,Revision,AI
+Help me revise regression.,Revision,AI
+What is clustering?,Explanation,AI
+Explain clustering.,Explanation,AI
+Can you explain clustering?,Explanation,AI
+Give an example of clustering.,Example,AI
+Show an example of clustering.,Example,AI
+How is clustering used? Give an example.,Example,AI
+I don't understand clustering.,Doubt,AI
+clustering is confusing.,Doubt,AI
+Please revise clustering.,Revision,AI
+Help me revise clustering.,Revision,AI
+What is SELECT?,Explanation,SQL
+Explain SELECT.,Explanation,SQL
+Can you explain SELECT?,Explanation,SQL
+Give an example of SELECT.,Example,SQL
+Show an example of SELECT.,Example,SQL
+How is SELECT used? Give an example.,Example,SQL
+I don't understand SELECT.,Doubt,SQL
+SELECT is confusing.,Doubt,SQL
+Please revise SELECT.,Revision,SQL
+Help me revise SELECT.,Revision,SQL
+What is WHERE?,Explanation,SQL
+Explain WHERE.,Explanation,SQL
+Can you explain WHERE?,Explanation,SQL
+Give an example of WHERE.,Example,SQL
+Show an example of WHERE.,Example,SQL
+How is WHERE used? Give an example.,Example,SQL
+I don't understand WHERE.,Doubt,SQL
+WHERE is confusing.,Doubt,SQL
+Please revise WHERE.,Revision,SQL
+Help me revise WHERE.,Revision,SQL
+What is GROUP BY?,Explanation,SQL
+Explain GROUP BY.,Explanation,SQL
+Can you explain GROUP BY?,Explanation,SQL
+Give an example of GROUP BY.,Example,SQL
+Show an example of GROUP BY.,Example,SQL
+How is GROUP BY used? Give an example.,Example,SQL
+I don't understand GROUP BY.,Doubt,SQL
+GROUP BY is confusing.,Doubt,SQL
+Please revise GROUP BY.,Revision,SQL
+Help me revise GROUP BY.,Revision,SQL
+What is HAVING?,Explanation,SQL
+Explain HAVING.,Explanation,SQL
+Can you explain HAVING?,Explanation,SQL
+Give an example of HAVING.,Example,SQL
+Show an example of HAVING.,Example,SQL
+How is HAVING used? Give an example.,Example,SQL
+I don't understand HAVING.,Doubt,SQL
+HAVING is confusing.,Doubt,SQL
+Please revise HAVING.,Revision,SQL
+Help me revise HAVING.,Revision,SQL
+What is ORDER BY?,Explanation,SQL
+Explain ORDER BY.,Explanation,SQL
+Can you explain ORDER BY?,Explanation,SQL
+Give an example of ORDER BY.,Example,SQL
+Show an example of ORDER BY.,Example,SQL
+How is ORDER BY used? Give an example.,Example,SQL
+I don't understand ORDER BY.,Doubt,SQL
+ORDER BY is confusing.,Doubt,SQL
+Please revise ORDER BY.,Revision,SQL
+Help me revise ORDER BY.,Revision,SQL
+What is INNER JOIN?,Explanation,SQL
+Explain INNER JOIN.,Explanation,SQL
+Can you explain INNER JOIN?,Explanation,SQL
+Give an example of INNER JOIN.,Example,SQL
+Show an example of INNER JOIN.,Example,SQL
+How is INNER JOIN used? Give an example.,Example,SQL
+I don't understand INNER JOIN.,Doubt,SQL
+INNER JOIN is confusing.,Doubt,SQL
+Please revise INNER JOIN.,Revision,SQL
+Help me revise INNER JOIN.,Revision,SQL
+What is LEFT JOIN?,Explanation,SQL
+Explain LEFT JOIN.,Explanation,SQL
+Can you explain LEFT JOIN?,Explanation,SQL
+Give an example of LEFT JOIN.,Example,SQL
+Show an example of LEFT JOIN.,Example,SQL
+How is LEFT JOIN used? Give an example.,Example,SQL
+I don't understand LEFT JOIN.,Doubt,SQL
+LEFT JOIN is confusing.,Doubt,SQL
+Please revise LEFT JOIN.,Revision,SQL
+Help me revise LEFT JOIN.,Revision,SQL
+What is RIGHT JOIN?,Explanation,SQL
+Explain RIGHT JOIN.,Explanation,SQL
+Can you explain RIGHT JOIN?,Explanation,SQL
+Give an example of RIGHT JOIN.,Example,SQL
+Show an example of RIGHT JOIN.,Example,SQL
+How is RIGHT JOIN used? Give an example.,Example,SQL
+I don't understand RIGHT JOIN.,Doubt,SQL
+RIGHT JOIN is confusing.,Doubt,SQL
+Please revise RIGHT JOIN.,Revision,SQL
+Help me revise RIGHT JOIN.,Revision,SQL
+What is UNION?,Explanation,SQL
+Explain UNION.,Explanation,SQL
+Can you explain UNION?,Explanation,SQL
+Give an example of UNION.,Example,SQL
+Show an example of UNION.,Example,SQL
+How is UNION used? Give an example.,Example,SQL
+I don't understand UNION.,Doubt,SQL
+UNION is confusing.,Doubt,SQL
+Please revise UNION.,Revision,SQL
+Help me revise UNION.,Revision,SQL
+What is subqueries?,Explanation,SQL
+Explain subqueries.,Explanation,SQL
+Can you explain subqueries?,Explanation,SQL
+Give an example of subqueries.,Example,SQL
+Show an example of subqueries.,Example,SQL
+How is subqueries used? Give an example.,Example,SQL
+I don't understand subqueries.,Doubt,SQL
+subqueries is confusing.,Doubt,SQL
+Please revise subqueries.,Revision,SQL
+Help me revise subqueries.,Revision,SQL
+What is aggregate functions?,Explanation,SQL
+Explain aggregate functions.,Explanation,SQL
+Can you explain aggregate functions?,Explanation,SQL
+Give an example of aggregate functions.,Example,SQL
+Show an example of aggregate functions.,Example,SQL
+How is aggregate functions used? Give an example.,Example,SQL
+I don't understand aggregate functions.,Doubt,SQL
+aggregate functions is confusing.,Doubt,SQL
+Please revise aggregate functions.,Revision,SQL
+Help me revise aggregate functions.,Revision,SQL
+What is indexes?,Explanation,SQL
+Explain indexes.,Explanation,SQL
+Can you explain indexes?,Explanation,SQL
+Give an example of indexes.,Example,SQL
+Show an example of indexes.,Example,SQL
+How is indexes used? Give an example.,Example,SQL
+I don't understand indexes.,Doubt,SQL
+indexes is confusing.,Doubt,SQL
+Please revise indexes.,Revision,SQL
+Help me revise indexes.,Revision,SQL
+What is views?,Explanation,SQL
+Explain views.,Explanation,SQL
+Can you explain views?,Explanation,SQL
+Give an example of views.,Example,SQL
+Show an example of views.,Example,SQL
+How is views used? Give an example.,Example,SQL
+I don't understand views.,Doubt,SQL
+views is confusing.,Doubt,SQL
+Please revise views.,Revision,SQL
+Help me revise views.,Revision,SQL
