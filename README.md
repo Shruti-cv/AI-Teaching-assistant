@@ -4,49 +4,42 @@ An intelligent educational assistant that understands student queries using Mach
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Intent Classification using Machine Learning
-- 📖 Topic Classification across multiple Computer Science subjects
-- 🧠 Semantic Query Understanding using Sentence Transformers (MiniLM)
-- 📊 Adaptive Learning Recommendations based on quiz performance
-- 🎯 Difficulty Level Detection (Beginner, Intermediate, Advanced)
-- 🤖 AI-based Response Generation (Gemini API integration with offline fallback)
-- 🌐 Interactive Streamlit Web Application
-- 📈 Explainable outputs for better learning support
+-  Intent Classification using Machine Learning
+-  Topic Classification across multiple Computer Science subjects
+-  Semantic Query Understanding using Sentence Transformers (MiniLM)
+-  Adaptive Learning Recommendations based on quiz performance
+-  Difficulty Level Detection (Beginner, Intermediate, Advanced)
+-  AI-based Response Generation (Gemini API integration with offline fallback)
+-  Interactive Streamlit Web Application
+-  Explainable outputs for better learning support
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Student Query
       │
-      ▼
 Sentence Transformer (MiniLM)
       │
-      ▼
 Intent Classification
       │
-      ▼
 Topic Classification
       │
-      ▼
 Difficulty Detection
       │
-      ▼
 Adaptive Recommendation Engine
       │
-      ▼
 Gemini AI Response
       │
-      ▼
 Personalized Learning Recommendation
 ```
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AI-Teaching-assistant/
@@ -76,7 +69,7 @@ AI-Teaching-assistant/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -92,7 +85,7 @@ AI-Teaching-assistant/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses a custom dataset containing **1000+ labeled student queries**.
 
@@ -116,7 +109,7 @@ The project uses a custom dataset containing **1000+ labeled student queries**.
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the repository
 
@@ -148,7 +141,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 streamlit run app.py
@@ -162,7 +155,7 @@ http://localhost:8501
 
 ---
 
-## 📷 Application Preview
+##  Application Preview
 
 ### Input
 
@@ -174,7 +167,7 @@ http://localhost:8501
 
 ---
 
-## 🎯 Sample Query
+### Sample Query
 
 ```
 Explain Python
@@ -190,7 +183,7 @@ Explain Python
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Topic Classification Accuracy
 
@@ -215,9 +208,9 @@ Machine Learning Model:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-**Gontu Shruti**
+**Gontu Sruthi**
 
 B.Tech – Information Technology
 
